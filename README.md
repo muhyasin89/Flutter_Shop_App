@@ -1,6 +1,6 @@
 # start_flutter
 
-A new Flutter project.
+A new Flutter project. This project is for experimenting using flutter as base.
 
 ## Getting Started
 
